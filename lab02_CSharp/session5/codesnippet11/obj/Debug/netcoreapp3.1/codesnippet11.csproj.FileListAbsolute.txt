@@ -1,0 +1,12 @@
+C:\Users\nhatdz\source\repos\session5\codesnippet11\bin\Debug\netcoreapp3.1\codesnippet11.exe
+C:\Users\nhatdz\source\repos\session5\codesnippet11\bin\Debug\netcoreapp3.1\codesnippet11.deps.json
+C:\Users\nhatdz\source\repos\session5\codesnippet11\bin\Debug\netcoreapp3.1\codesnippet11.runtimeconfig.json
+C:\Users\nhatdz\source\repos\session5\codesnippet11\bin\Debug\netcoreapp3.1\codesnippet11.runtimeconfig.dev.json
+C:\Users\nhatdz\source\repos\session5\codesnippet11\bin\Debug\netcoreapp3.1\codesnippet11.dll
+C:\Users\nhatdz\source\repos\session5\codesnippet11\bin\Debug\netcoreapp3.1\codesnippet11.pdb
+C:\Users\nhatdz\source\repos\session5\codesnippet11\obj\Debug\netcoreapp3.1\codesnippet11.AssemblyInfoInputs.cache
+C:\Users\nhatdz\source\repos\session5\codesnippet11\obj\Debug\netcoreapp3.1\codesnippet11.AssemblyInfo.cs
+C:\Users\nhatdz\source\repos\session5\codesnippet11\obj\Debug\netcoreapp3.1\codesnippet11.csproj.CoreCompileInputs.cache
+C:\Users\nhatdz\source\repos\session5\codesnippet11\obj\Debug\netcoreapp3.1\codesnippet11.dll
+C:\Users\nhatdz\source\repos\session5\codesnippet11\obj\Debug\netcoreapp3.1\codesnippet11.pdb
+C:\Users\nhatdz\source\repos\session5\codesnippet11\obj\Debug\netcoreapp3.1\codesnippet11.genruntimeconfig.cache

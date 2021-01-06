@@ -1,0 +1,12 @@
+C:\Users\nhatdz\source\repos\session5\codesnippet5\bin\Debug\netcoreapp3.1\codesnippet5.exe
+C:\Users\nhatdz\source\repos\session5\codesnippet5\bin\Debug\netcoreapp3.1\codesnippet5.deps.json
+C:\Users\nhatdz\source\repos\session5\codesnippet5\bin\Debug\netcoreapp3.1\codesnippet5.runtimeconfig.json
+C:\Users\nhatdz\source\repos\session5\codesnippet5\bin\Debug\netcoreapp3.1\codesnippet5.runtimeconfig.dev.json
+C:\Users\nhatdz\source\repos\session5\codesnippet5\bin\Debug\netcoreapp3.1\codesnippet5.dll
+C:\Users\nhatdz\source\repos\session5\codesnippet5\bin\Debug\netcoreapp3.1\codesnippet5.pdb
+C:\Users\nhatdz\source\repos\session5\codesnippet5\obj\Debug\netcoreapp3.1\codesnippet5.AssemblyInfoInputs.cache
+C:\Users\nhatdz\source\repos\session5\codesnippet5\obj\Debug\netcoreapp3.1\codesnippet5.AssemblyInfo.cs
+C:\Users\nhatdz\source\repos\session5\codesnippet5\obj\Debug\netcoreapp3.1\codesnippet5.csproj.CoreCompileInputs.cache
+C:\Users\nhatdz\source\repos\session5\codesnippet5\obj\Debug\netcoreapp3.1\codesnippet5.dll
+C:\Users\nhatdz\source\repos\session5\codesnippet5\obj\Debug\netcoreapp3.1\codesnippet5.pdb
+C:\Users\nhatdz\source\repos\session5\codesnippet5\obj\Debug\netcoreapp3.1\codesnippet5.genruntimeconfig.cache

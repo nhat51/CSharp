@@ -1,0 +1,13 @@
+C:\Users\nhatdz\source\repos\Assigment\Assigment\bin\Debug\netcoreapp3.1\Assigment.exe
+C:\Users\nhatdz\source\repos\Assigment\Assigment\bin\Debug\netcoreapp3.1\Assigment.deps.json
+C:\Users\nhatdz\source\repos\Assigment\Assigment\bin\Debug\netcoreapp3.1\Assigment.runtimeconfig.json
+C:\Users\nhatdz\source\repos\Assigment\Assigment\bin\Debug\netcoreapp3.1\Assigment.runtimeconfig.dev.json
+C:\Users\nhatdz\source\repos\Assigment\Assigment\bin\Debug\netcoreapp3.1\Assigment.dll
+C:\Users\nhatdz\source\repos\Assigment\Assigment\bin\Debug\netcoreapp3.1\Assigment.pdb
+C:\Users\nhatdz\source\repos\Assigment\Assigment\obj\Debug\netcoreapp3.1\Assigment.csprojAssemblyReference.cache
+C:\Users\nhatdz\source\repos\Assigment\Assigment\obj\Debug\netcoreapp3.1\Assigment.AssemblyInfoInputs.cache
+C:\Users\nhatdz\source\repos\Assigment\Assigment\obj\Debug\netcoreapp3.1\Assigment.AssemblyInfo.cs
+C:\Users\nhatdz\source\repos\Assigment\Assigment\obj\Debug\netcoreapp3.1\Assigment.csproj.CoreCompileInputs.cache
+C:\Users\nhatdz\source\repos\Assigment\Assigment\obj\Debug\netcoreapp3.1\Assigment.dll
+C:\Users\nhatdz\source\repos\Assigment\Assigment\obj\Debug\netcoreapp3.1\Assigment.pdb
+C:\Users\nhatdz\source\repos\Assigment\Assigment\obj\Debug\netcoreapp3.1\Assigment.genruntimeconfig.cache
