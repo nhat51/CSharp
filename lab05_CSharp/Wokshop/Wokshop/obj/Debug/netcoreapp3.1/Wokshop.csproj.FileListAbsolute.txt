@@ -1,0 +1,4 @@
+C:\Users\nhatdz\source\repos\Wokshop\Wokshop\obj\Debug\netcoreapp3.1\Wokshop.csprojAssemblyReference.cache
+C:\Users\nhatdz\source\repos\Wokshop\Wokshop\obj\Debug\netcoreapp3.1\Wokshop.AssemblyInfoInputs.cache
+C:\Users\nhatdz\source\repos\Wokshop\Wokshop\obj\Debug\netcoreapp3.1\Wokshop.AssemblyInfo.cs
+C:\Users\nhatdz\source\repos\Wokshop\Wokshop\obj\Debug\netcoreapp3.1\Wokshop.csproj.CoreCompileInputs.cache

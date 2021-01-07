@@ -1,0 +1,13 @@
+C:\Users\nhatdz\source\repos\Wokshop\Company\obj\Debug\netcoreapp3.1\Company.AssemblyInfoInputs.cache
+C:\Users\nhatdz\source\repos\Wokshop\Company\obj\Debug\netcoreapp3.1\Company.AssemblyInfo.cs
+C:\Users\nhatdz\source\repos\Wokshop\Company\obj\Debug\netcoreapp3.1\Company.csproj.CoreCompileInputs.cache
+C:\Users\nhatdz\source\repos\Wokshop\Company\bin\Debug\netcoreapp3.1\Company.exe
+C:\Users\nhatdz\source\repos\Wokshop\Company\bin\Debug\netcoreapp3.1\Company.deps.json
+C:\Users\nhatdz\source\repos\Wokshop\Company\bin\Debug\netcoreapp3.1\Company.runtimeconfig.json
+C:\Users\nhatdz\source\repos\Wokshop\Company\bin\Debug\netcoreapp3.1\Company.runtimeconfig.dev.json
+C:\Users\nhatdz\source\repos\Wokshop\Company\bin\Debug\netcoreapp3.1\Company.dll
+C:\Users\nhatdz\source\repos\Wokshop\Company\bin\Debug\netcoreapp3.1\Company.pdb
+C:\Users\nhatdz\source\repos\Wokshop\Company\obj\Debug\netcoreapp3.1\Company.csprojAssemblyReference.cache
+C:\Users\nhatdz\source\repos\Wokshop\Company\obj\Debug\netcoreapp3.1\Company.dll
+C:\Users\nhatdz\source\repos\Wokshop\Company\obj\Debug\netcoreapp3.1\Company.pdb
+C:\Users\nhatdz\source\repos\Wokshop\Company\obj\Debug\netcoreapp3.1\Company.genruntimeconfig.cache
