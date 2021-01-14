@@ -1,0 +1,13 @@
+C:\Users\nhatdz\source\repos\CodeSnippetSession10\CodeSnippet25\bin\Debug\netcoreapp3.1\CodeSnippet25.exe
+C:\Users\nhatdz\source\repos\CodeSnippetSession10\CodeSnippet25\bin\Debug\netcoreapp3.1\CodeSnippet25.deps.json
+C:\Users\nhatdz\source\repos\CodeSnippetSession10\CodeSnippet25\bin\Debug\netcoreapp3.1\CodeSnippet25.runtimeconfig.json
+C:\Users\nhatdz\source\repos\CodeSnippetSession10\CodeSnippet25\bin\Debug\netcoreapp3.1\CodeSnippet25.runtimeconfig.dev.json
+C:\Users\nhatdz\source\repos\CodeSnippetSession10\CodeSnippet25\bin\Debug\netcoreapp3.1\CodeSnippet25.dll
+C:\Users\nhatdz\source\repos\CodeSnippetSession10\CodeSnippet25\bin\Debug\netcoreapp3.1\CodeSnippet25.pdb
+C:\Users\nhatdz\source\repos\CodeSnippetSession10\CodeSnippet25\obj\Debug\netcoreapp3.1\CodeSnippet25.csprojAssemblyReference.cache
+C:\Users\nhatdz\source\repos\CodeSnippetSession10\CodeSnippet25\obj\Debug\netcoreapp3.1\CodeSnippet25.AssemblyInfoInputs.cache
+C:\Users\nhatdz\source\repos\CodeSnippetSession10\CodeSnippet25\obj\Debug\netcoreapp3.1\CodeSnippet25.AssemblyInfo.cs
+C:\Users\nhatdz\source\repos\CodeSnippetSession10\CodeSnippet25\obj\Debug\netcoreapp3.1\CodeSnippet25.csproj.CoreCompileInputs.cache
+C:\Users\nhatdz\source\repos\CodeSnippetSession10\CodeSnippet25\obj\Debug\netcoreapp3.1\CodeSnippet25.dll
+C:\Users\nhatdz\source\repos\CodeSnippetSession10\CodeSnippet25\obj\Debug\netcoreapp3.1\CodeSnippet25.pdb
+C:\Users\nhatdz\source\repos\CodeSnippetSession10\CodeSnippet25\obj\Debug\netcoreapp3.1\CodeSnippet25.genruntimeconfig.cache
